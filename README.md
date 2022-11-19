@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yassirfariz
-- 👀 I’m interested in front end dev and mobile dev 
-- 🌱 I’m currently learning C, jAVA, Kotlin
+- 👀 I’m interested in front end dev and physics simulations and math
+- 🌱 I’m currently learning C++, C, Rust
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me no way to rach me
+- 📫 How to reach me by my email farizyassir2007@gmail.com
 
 <!---
 yassirfariz/yassirfariz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
