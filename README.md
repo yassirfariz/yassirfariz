@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yassirfariz
 - 👀 I’m interested in front end dev and physics simulations and math
 - 🌱 I’m currently learning C++, C, Rust
-- 💞️ I’m looking to collaborate on Nothing
 - 📫 You can reach me by my email : farizyassir2007@gmail.com
 
 <!---
